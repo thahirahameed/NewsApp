@@ -35,4 +35,3 @@ The App is using the [News Api] to searching news.
 
 This app uses [MVVM (Model View View-Model)] architecture.
 
-![alt text](https://github.com/KadirKuruca/NewsApp-MVVM-Hilt-Room-Retrofit/blob/master/mvvm_architecture.png?raw=true)
