@@ -33,6 +33,7 @@ class ArticleFragment : Fragment(R.layout.fragment_article) {
             }
 
             fab.setOnClickListener {
+                
                 viewModel.saveArticle(article)
             }
         }
